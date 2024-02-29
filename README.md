@@ -6,6 +6,23 @@ II.Project Technology :
 Python 3.x
 Django
 OpenAI API 
+HTML/CSS/JavaScript
+
+
+
+Installation:
+
+Follow the commands below
+
+git clone https://github.com/yourusername/codart.git
+cd codart
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+Starting the App
+python manage.py runserver
+Go to 127.0.0.1:8000 in your browser
+
 
 III.Overview:
 
@@ -16,6 +33,12 @@ At "Escape to Ocho Rios," users are encouraged to share their unforgettable mome
 As a special benefit of subscribing to the website, users gain exclusive access to use our innovative OpenAI-powered chatbot. This chatbot serves as a personalized travel companion, offering valuable insights, recommendations, and assistance tailored to each user's preferences and interests. Whether users are seeking advice on must-visit attractions, local dining hotspots, or practical travel tips, the chatbot is always ready to provide helpful guidance and support.
 
 "Escape to Ocho Rios" is more than just a blog; it's a community-driven platform where users can share their love for Jamaica, discover new adventures, and connect with like-minded travelers from around the world. Join us on a journey of exploration, discovery, and endless possibilities as we escape to the enchanting shores of Ocho Rios together.
+
+Future Enhancements:
+-Full Functionality of the Blog Portion of the Website
+
+Git Hub Repository Link
+https://github.com/DGWonKanobi/django_chatbot
 
 Home Page
 ![Alt text](/images/Ochiblog-home.png)
