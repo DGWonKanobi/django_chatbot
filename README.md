@@ -14,12 +14,15 @@ Installation:
 
 Follow the commands below
 
-git clone https://github.com/yourusername/codart.git
-cd codart
 pip install -r requirements.txt
+
 python manage.py makemigrations
+
 python manage.py migrate
+
+
 Starting the App
+
 python manage.py runserver
 Go to 127.0.0.1:8000 in your browser
 
